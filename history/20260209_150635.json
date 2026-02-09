@@ -1,0 +1,31 @@
+{
+  "raw_text": "SHAIK INZAMAM  \nPhone: +91- 8309330634  Email: shaikinzamam333@gmail.com  \nLinkedIn :https://www.linkedin.com/in/shaik -inzamam -7608772a5/  \nGitHub :  https://github.com/shaikinzamam  \nPython | Generative AI | LLM | Automation  \nPROFESSIONAL SUMMARY  \nB.Tech Computer Science Engineering student specializing in Python, Generative AI, and Large \nLanguage Models (LLMs).  Hands -on experience building AI -powered applications using LangChain, \nFAISS, Ollama, and FastAPI.  Skilled in Retrieval -Augmented Generation (RAG), REST API \ndevelopment, workflow automation, and AWS cloud fundamentals.  Actively seeking an AI / GenAI / \nPython Intern role to contribute to real -world, production -grade systems.  \nTECHNICAL SKILLS \n\u2022 Programming Languages: Python, Java (Basic), SQL  \n\u2022 AI / ML / GenAI: Large Language Models (LLMs), Generative AI, Prompt Engineering,  \n  Retrieval -Augmented Generation (RAG ), Vector Databases (FAISS)  \n\u2022 Backend & APIs: REST APIs, API Integration , FastAPI  \n\u2022 Tools & Libraries: NumPy, Pandas, PyAutoGUI, Pytesseract (OCR), Git, GitHub  \n\u2022 Cloud & Dev Concepts: AWS (Bisic) , Cloud Architecture Fundamentals  (EC2, S3)  \n\u2022 Automation : n8n, Workflow Automation (Make.com)\n \nPROJECTS  \nDocuMind AI \u2013 Intelligent Document Chat System  \n  Tech : Python, LLMs, LangChain, FAISS, Ollama, FastAPI  \n\u2022 Built an AI -powered PDF chat system using LLMs and FAISS -based vector search.   \n\u2022 Integrated Ollama for efficient local LLM inference and response generation.  \n\u2022 Designed a scalable FastAPI backend optimized for real -world usage.  \n  Git link:  https://github.com/shaikinzamam/DocuMind -AI \nWhatsApp Auto -Reply Bot  \n  Tech : Python, PyAutoGUI, OCR (Pytesseract)  \n\u2022 Built an automated bot to read and respond to WhatsApp messages using Py AutoG UI. \n\u2022 Applied OCR techniques to extract message text and trigger intelligent auto -replies.  \n\u2022 Strengthened practical skills in automation scripting and real -world workflow design . \n  Git link: https://github.com/shaikinzamam/WhatsApp -Auto-Reply -Bot \nRestaurant Management System  \n  Tech:  Python, File Handling, Console Application  \n\u2022 Designed a menu -driven Python application for order placement and billing operations.  \n\u2022 Implemented file handling to persist menu data and order history.  \n\u2022 Improved understanding of control flow, functions, and data management in Python.  \n  Git link: https://github.com/shaikinzamam/Restaurant -Management -System  \nEDUCATION  \nB.Tech \u2013 Computer Science Engineering  \nBharatiya Engineering Science & Technology Innovation University  \nAug 2023 \u2013 Jun 2027 | CGPA: 7.9  \nCERTIFICATIONS  \n\u2022 Generative AI and LLMs : Architecture & Data Preparation \u2013 IBM (Coursera)  \n\u2022 AWS Solutions Architecture \u2013 Job Simulation \u2013 Forage  \n\u2022 Cisco Networking Academy ( Python Institute ) ",
+  "email": "shaikinzamam333@gmail.com",
+  "phone": "8309330634",
+  "llm_summary": {
+    "professional_summary": "Bachelor's degree holder and aspiring professional with demonstrated expertise in Sql, Rest Api, Rag, Java.",
+    "strengths": [
+      "Sql",
+      "Rest Api",
+      "Rag",
+      "Java",
+      "Llm"
+    ],
+    "weaknesses": [
+      "Experience duration not clearly specified",
+      "Limited evidence of teamwork and collaboration"
+    ],
+    "missing_skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Cloud (AWS/Azure/GCP)"
+    ],
+    "suggested_job_roles": [
+      "GenAI Engineer",
+      "Backend Developer",
+      "Python Developer",
+      "Data Scientist"
+    ]
+  }
+}
