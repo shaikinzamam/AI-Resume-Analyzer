@@ -2,5 +2,7 @@ flask
 flask-cors
 streamlit
 requests
-PyPDF2
+pypdf
 python-docx
+numpy
+pandas

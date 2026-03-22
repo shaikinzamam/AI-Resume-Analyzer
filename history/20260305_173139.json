@@ -1,0 +1,69 @@
+{
+  "timestamp": "2026-03-05T17:31:39.743290",
+  "analysis_type": "jd_match",
+  "result": {
+    "jd_match_score": 51,
+    "skill_match_percentage": 75,
+    "keyword_match_percentage": 15,
+    "missing_skills": [
+      "OpenAI"
+    ],
+    "missing_keywords": [
+      "None detected"
+    ],
+    "experience_gap": "Build 1\u20132 projects covering the missing skills before applying.",
+    "resume_improvements": [
+      "Add specific metrics to every bullet (%, users, time saved, requests/sec)",
+      "Mirror exact keywords from the job description in your bullets",
+      "Write a tailored 3\u20134 sentence professional summary at the top",
+      "Describe each project's real-world impact, not just the tech used",
+      "List specific versions/tools: FastAPI 0.100, LangChain 0.2, Python 3.11"
+    ],
+    "resume_bullet_rewrites": [
+      {
+        "original": "Built AI-powered PDF chat system using LLMs and FAISS",
+        "improved": "Architected AI-powered PDF chat system using LangChain + FAISS vector search, enabling sub-2s semantic Q&A over 100+ page documents"
+      },
+      {
+        "original": "Designed FastAPI backend for real-world usage",
+        "improved": "Designed async FastAPI backend handling concurrent LLM inference requests, supporting multiple simultaneous user sessions"
+      }
+    ],
+    "final_verdict": "\ud83d\udfe0 Partial Match \u2014 Build projects for missing skills.",
+    "project_recommendations": [
+      {
+        "project_title": "RAG-Based Document Q&A System",
+        "skills_covered": [
+          "Python",
+          "LangChain",
+          "OpenAI",
+          "FAISS",
+          "Streamlit"
+        ],
+        "description": "Create a Retrieval-Augmented Generation system: upload documents, ask questions, get LLM-grounded answers with source citations."
+      },
+      {
+        "project_title": "Production-Grade REST API with Authentication",
+        "skills_covered": [
+          "Python",
+          "FastAPI",
+          "PostgreSQL",
+          "JWT",
+          "Docker"
+        ],
+        "description": "Build a scalable REST API with user auth, role-based access control, database integration, and Docker containerisation."
+      },
+      {
+        "project_title": "End-to-End ML Model Deployment Pipeline",
+        "skills_covered": [
+          "Python",
+          "Scikit-learn",
+          "FastAPI",
+          "Docker",
+          "AWS"
+        ],
+        "description": "Train a model, serve it via FastAPI, containerise with Docker, and deploy to AWS EC2 with CI/CD."
+      }
+    ]
+  }
+}
